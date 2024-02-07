@@ -1,1 +1,1 @@
-# My Name is P. Sai Parameshwar Rao from Hanamkonda.Iam Currently Studying B.Tech in CSE at SR Univeristy.
+My Name is P. Sai Parameshwar Rao from Hanamkonda.Iam Currently Studying B.Tech in CSE at SR Univeristy.
