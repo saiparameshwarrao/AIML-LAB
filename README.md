@@ -6,3 +6,5 @@
 4. [Assignment4](https://github.com/saiparameshwarrao/AIML_LAB/blob/main/A4.ipynb)
 5. [Assignment5](https://github.com/saiparameshwarrao/AIML_LAB/blob/main/A5.ipynb)
 6. [Assignment6](https://github.com/saiparameshwarrao/AIML_LAB/blob/main/A6.ipynb)
+7. [Assignment7](https://github.com/saiparameshwarrao/AIML_LAB/blob/main/A7.ipynb)
+8. [Assignment8](https://github.com/saiparameshwarrao/AIML_LAB/blob/main/A8.ipynb)
