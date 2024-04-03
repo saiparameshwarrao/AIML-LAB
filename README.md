@@ -8,3 +8,4 @@
 6. [Assignment6](https://github.com/saiparameshwarrao/AIML_LAB/blob/main/A6.ipynb)
 7. [Assignment7](https://github.com/saiparameshwarrao/AIML_LAB/blob/main/A7.ipynb)
 8. [Assignment8](https://github.com/saiparameshwarrao/AIML_LAB/blob/main/A8.ipynb)
+9. [Assignment9](https://github.com/saiparameshwarrao/AIML_LAB/blob/main/A9.ipynb)
